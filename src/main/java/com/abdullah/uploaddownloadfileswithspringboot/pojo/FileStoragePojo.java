@@ -1,4 +1,4 @@
-package com.abdullah.uploaddownloadfileswithspringboot;
+package com.abdullah.uploaddownloadfileswithspringboot.pojo;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
